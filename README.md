@@ -29,3 +29,15 @@ docker pull allieukhona/coffeenchill-functions:v1.0
 
 mcr.microsoft.com/azure-storage/azurite:latest
 
+
+
+\### Member 3 - Ukhona
+
+\- Wrote the multi-stage Dockerfile for the Azure Functions project
+
+\- Fixed the target framework to net8.0 for Docker/runtime compatibility
+
+\- Built and ran the Functions container standalone, connected to Azurite over a Docker network
+
+\- Published the image to Docker Hub as allieukhona/coffeenchill-functions:v1.0
+
